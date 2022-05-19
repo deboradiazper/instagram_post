@@ -1,0 +1,76 @@
+body {
+    background-color: black;
+}
+
+.post {
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    align-content: center;
+    width: 600px;
+    margin: auto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 16px;
+}
+
+.left {
+    display: flex;
+    text-align: center;
+}
+
+div.logo i {
+    font-size: 45px;
+    padding-left: 10px;
+    padding-top: 10px;
+    display: relative;
+}
+
+#where {
+    font-size: 18px;
+    margin-top: -8px;
+}
+
+#where p:nth-child(2){
+    margin-top: -15px;
+    font-size: 14px;
+    padding-left: 6px;
+    
+}
+
+
+
+.right {
+    padding: 6px;
+    font-size: 26px;
+}
+
+.underheader{
+    margin: 0px;
+    padding-left: 36px;
+    padding-bottom: 16px;
+    
+}
+
+.buttons {
+    font-size: 26px;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.left1 {
+    padding: 4px;
+}
+
+.right2 {
+    padding: 4px;
+}
+
+.body1 {
+    padding: 10px;
+}
+
